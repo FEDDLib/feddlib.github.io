@@ -27,7 +27,7 @@ markdown: kramdown # redcarpet # kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-seo
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,6 +40,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-paginate: 10
-paginate_path: "news/page:num/"
