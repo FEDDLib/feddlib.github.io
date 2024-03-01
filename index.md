@@ -1,9 +1,10 @@
 ---
 title: FEDDLib (Finite Element and Domain Decomposition Library)
-list_title: News
 layout: home
 exclude: true
 ---
+
+<img align="left" width="30%" hspace="3%" vspace="1%" src="assets/img/artery_fsci_realistic_square.jpg">
 
 The [Finite Element and Domain Decomposition Library (FEDDLib)](https://github.com/FEDDLib/FEDDLib) is an open-source, C++-based, object-oriented finite element library that is built on top of [Trilinos](https://trilinos.github.io/) and has access to domain decomposition solvers, particularly via [FROSch](https://cds.uni-koeln.de/en/tools/software/frosch), a subpackage of Trilinos. Trilinos is a software project for the solution of complex multiphysics problems in science and engineering. It has a multitude of (mostly) interoperable packages, for example, for parallel linear algebra operations, meshing, and the solution of linear and nonlinear problems. 
 
